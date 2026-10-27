@@ -1,0 +1,989 @@
+[
+  {
+    "id": "autumn-leaves",
+    "title": "Autumn Leaves",
+    "defaultKey": "G",
+    "style": "Medium Swing",
+    "tempo": 120,
+    "measures": [
+      {
+        "id": "1",
+        "chords": [
+          "Am7"
+        ]
+      },
+      {
+        "id": "2",
+        "chords": [
+          "D7"
+        ]
+      },
+      {
+        "id": "3",
+        "chords": [
+          "Gmaj7"
+        ]
+      },
+      {
+        "id": "4",
+        "chords": [
+          "Cmaj7"
+        ]
+      },
+      {
+        "id": "5",
+        "chords": [
+          "F#m7b5"
+        ],
+        "modulateTo": {
+          "key": "E",
+          "isMinor": true
+        }
+      },
+      {
+        "id": "6",
+        "chords": [
+          "B7"
+        ]
+      },
+      {
+        "id": "7",
+        "chords": [
+          "Em7"
+        ]
+      },
+      {
+        "id": "8",
+        "chords": [
+          "Em7"
+        ]
+      },
+      {
+        "id": "9",
+        "chords": [
+          "Am7"
+        ],
+        "modulateTo": {
+          "key": "G",
+          "isMinor": false
+        }
+      },
+      {
+        "id": "10",
+        "chords": [
+          "D7"
+        ]
+      },
+      {
+        "id": "11",
+        "chords": [
+          "Gmaj7"
+        ]
+      },
+      {
+        "id": "12",
+        "chords": [
+          "Cmaj7"
+        ]
+      },
+      {
+        "id": "13",
+        "chords": [
+          "F#m7b5"
+        ],
+        "modulateTo": {
+          "key": "E",
+          "isMinor": true
+        }
+      },
+      {
+        "id": "14",
+        "chords": [
+          "B7"
+        ]
+      },
+      {
+        "id": "15",
+        "chords": [
+          "Em7"
+        ]
+      },
+      {
+        "id": "16",
+        "chords": [
+          "Em7"
+        ]
+      },
+      {
+        "id": "17",
+        "chords": [
+          "F#m7b5"
+        ]
+      },
+      {
+        "id": "18",
+        "chords": [
+          "B7"
+        ]
+      },
+      {
+        "id": "19",
+        "chords": [
+          "Em7"
+        ]
+      },
+      {
+        "id": "20",
+        "chords": [
+          "Em7"
+        ]
+      },
+      {
+        "id": "21",
+        "chords": [
+          "Am7"
+        ],
+        "modulateTo": {
+          "key": "G",
+          "isMinor": false
+        }
+      },
+      {
+        "id": "22",
+        "chords": [
+          "D7"
+        ]
+      },
+      {
+        "id": "23",
+        "chords": [
+          "Gmaj7"
+        ]
+      },
+      {
+        "id": "24",
+        "chords": [
+          "Gmaj7"
+        ]
+      },
+      {
+        "id": "25",
+        "chords": [
+          "F#m7b5"
+        ],
+        "modulateTo": {
+          "key": "E",
+          "isMinor": true
+        }
+      },
+      {
+        "id": "26",
+        "chords": [
+          "B7"
+        ]
+      },
+      {
+        "id": "27",
+        "chords": [
+          "Em7",
+          "A7"
+        ]
+      },
+      {
+        "id": "28",
+        "chords": [
+          "Dm7",
+          "G7"
+        ]
+      },
+      {
+        "id": "29",
+        "chords": [
+          "Am7"
+        ]
+      },
+      {
+        "id": "30",
+        "chords": [
+          "B7"
+        ]
+      },
+      {
+        "id": "31",
+        "chords": [
+          "Em7"
+        ]
+      },
+      {
+        "id": "32",
+        "chords": [
+          "Em7"
+        ]
+      }
+    ],
+    "sections": {
+      "Sección A": 0,
+      "Sección B": 16
+    }
+  },
+  {
+    "id": "blue-bossa",
+    "title": "Blue Bossa",
+    "defaultKey": "C",
+    "defaultIsMinor": true,
+    "style": "Bossa Nova",
+    "tempo": 130,
+    "measures": [
+      {
+        "id": "1",
+        "chords": [
+          "Cm7"
+        ]
+      },
+      {
+        "id": "2",
+        "chords": [
+          "Cm7"
+        ]
+      },
+      {
+        "id": "3",
+        "chords": [
+          "Fm7"
+        ]
+      },
+      {
+        "id": "4",
+        "chords": [
+          "Fm7"
+        ]
+      },
+      {
+        "id": "5",
+        "chords": [
+          "Dm7b5"
+        ]
+      },
+      {
+        "id": "6",
+        "chords": [
+          "G7"
+        ]
+      },
+      {
+        "id": "7",
+        "chords": [
+          "Cm7"
+        ]
+      },
+      {
+        "id": "8",
+        "chords": [
+          "Cm7"
+        ]
+      },
+      {
+        "id": "9",
+        "chords": [
+          "Ebm7"
+        ],
+        "modulateTo": {
+          "key": "Db",
+          "isMinor": false
+        }
+      },
+      {
+        "id": "10",
+        "chords": [
+          "Ab7"
+        ]
+      },
+      {
+        "id": "11",
+        "chords": [
+          "Dbmaj7"
+        ]
+      },
+      {
+        "id": "12",
+        "chords": [
+          "Dbmaj7"
+        ]
+      },
+      {
+        "id": "13",
+        "chords": [
+          "Dm7b5"
+        ],
+        "modulateTo": {
+          "key": "C",
+          "isMinor": true
+        }
+      },
+      {
+        "id": "14",
+        "chords": [
+          "G7"
+        ]
+      },
+      {
+        "id": "15",
+        "chords": [
+          "Cm7"
+        ]
+      },
+      {
+        "id": "16",
+        "chords": [
+          "Dm7b5",
+          "G7"
+        ]
+      }
+    ],
+    "sections": {
+      "Tema": 0
+    }
+  },
+  {
+    "id": "misty",
+    "title": "Misty",
+    "defaultKey": "Eb",
+    "style": "Slow Ballad",
+    "tempo": 70,
+    "measures": [
+      {
+        "id": "1",
+        "chords": [
+          "Ebmaj7"
+        ]
+      },
+      {
+        "id": "2",
+        "chords": [
+          "Bbm7",
+          "Eb7"
+        ]
+      },
+      {
+        "id": "3",
+        "chords": [
+          "Abmaj7"
+        ]
+      },
+      {
+        "id": "4",
+        "chords": [
+          "Abm7",
+          "Db7"
+        ]
+      },
+      {
+        "id": "5",
+        "chords": [
+          "Ebmaj7",
+          "Cm7"
+        ]
+      },
+      {
+        "id": "6",
+        "chords": [
+          "Fm7",
+          "Bb7"
+        ]
+      },
+      {
+        "id": "7",
+        "chords": [
+          "Ebmaj7",
+          "Cm7"
+        ]
+      },
+      {
+        "id": "8",
+        "chords": [
+          "Fm7",
+          "Bb7"
+        ]
+      },
+      {
+        "id": "9",
+        "chords": [
+          "Ebmaj7"
+        ]
+      },
+      {
+        "id": "10",
+        "chords": [
+          "Bbm7",
+          "Eb7"
+        ]
+      },
+      {
+        "id": "11",
+        "chords": [
+          "Abmaj7"
+        ]
+      },
+      {
+        "id": "12",
+        "chords": [
+          "Abm7",
+          "Db7"
+        ]
+      },
+      {
+        "id": "13",
+        "chords": [
+          "Ebmaj7",
+          "Cm7"
+        ]
+      },
+      {
+        "id": "14",
+        "chords": [
+          "Fm7",
+          "Bb7"
+        ]
+      },
+      {
+        "id": "15",
+        "chords": [
+          "Ebmaj7"
+        ]
+      },
+      {
+        "id": "16",
+        "chords": [
+          "Fm7",
+          "Bb7"
+        ]
+      },
+      {
+        "id": "17",
+        "chords": [
+          "Bbm7"
+        ]
+      },
+      {
+        "id": "18",
+        "chords": [
+          "Eb7"
+        ]
+      },
+      {
+        "id": "19",
+        "chords": [
+          "Abmaj7"
+        ]
+      },
+      {
+        "id": "20",
+        "chords": [
+          "Abmaj7"
+        ]
+      },
+      {
+        "id": "21",
+        "chords": [
+          "Am7"
+        ]
+      },
+      {
+        "id": "22",
+        "chords": [
+          "D7"
+        ]
+      },
+      {
+        "id": "23",
+        "chords": [
+          "Fm7"
+        ]
+      },
+      {
+        "id": "24",
+        "chords": [
+          "Bb7"
+        ]
+      },
+      {
+        "id": "25",
+        "chords": [
+          "Ebmaj7"
+        ]
+      },
+      {
+        "id": "26",
+        "chords": [
+          "Bbm7",
+          "Eb7"
+        ]
+      },
+      {
+        "id": "27",
+        "chords": [
+          "Abmaj7"
+        ]
+      },
+      {
+        "id": "28",
+        "chords": [
+          "Abm7",
+          "Db7"
+        ]
+      },
+      {
+        "id": "29",
+        "chords": [
+          "Ebmaj7",
+          "Cm7"
+        ]
+      },
+      {
+        "id": "30",
+        "chords": [
+          "Fm7",
+          "Bb7"
+        ]
+      },
+      {
+        "id": "31",
+        "chords": [
+          "Ebmaj7"
+        ]
+      },
+      {
+        "id": "32",
+        "chords": [
+          "Fm7",
+          "Bb7"
+        ]
+      }
+    ],
+    "sections": {
+      "Sección A": 0,
+      "Puente B": 16,
+      "Sección A final": 24
+    }
+  },
+  {
+    "id": "my-funny-valentine",
+    "title": "My Funny Valentine",
+    "defaultKey": "C",
+    "style": "Jazz Ballad",
+    "tempo": 75,
+    "measures": [
+      {
+        "id": "1",
+        "chords": [
+          "Cm"
+        ]
+      },
+      {
+        "id": "2",
+        "chords": [
+          "Cm"
+        ]
+      },
+      {
+        "id": "3",
+        "chords": [
+          "Cm7"
+        ]
+      },
+      {
+        "id": "4",
+        "chords": [
+          "Cm"
+        ]
+      },
+      {
+        "id": "5",
+        "chords": [
+          "Abmaj7"
+        ]
+      },
+      {
+        "id": "6",
+        "chords": [
+          "Fm7"
+        ]
+      },
+      {
+        "id": "7",
+        "chords": [
+          "Dm7b5"
+        ]
+      },
+      {
+        "id": "8",
+        "chords": [
+          "G7"
+        ]
+      },
+      {
+        "id": "9",
+        "chords": [
+          "Cm"
+        ]
+      },
+      {
+        "id": "10",
+        "chords": [
+          "Cm"
+        ]
+      },
+      {
+        "id": "11",
+        "chords": [
+          "Cm7"
+        ]
+      },
+      {
+        "id": "12",
+        "chords": [
+          "Cm"
+        ]
+      },
+      {
+        "id": "13",
+        "chords": [
+          "Abmaj7"
+        ]
+      },
+      {
+        "id": "14",
+        "chords": [
+          "Fm7"
+        ]
+      },
+      {
+        "id": "15",
+        "chords": [
+          "Dm7b5"
+        ]
+      },
+      {
+        "id": "16",
+        "chords": [
+          "G7"
+        ]
+      },
+      {
+        "id": "17",
+        "chords": [
+          "Ebmaj7"
+        ]
+      },
+      {
+        "id": "18",
+        "chords": [
+          "Fm7",
+          "Bb7"
+        ]
+      },
+      {
+        "id": "19",
+        "chords": [
+          "Ebmaj7"
+        ]
+      },
+      {
+        "id": "20",
+        "chords": [
+          "Fm7",
+          "Bb7"
+        ]
+      },
+      {
+        "id": "21",
+        "chords": [
+          "Ebmaj7"
+        ]
+      },
+      {
+        "id": "22",
+        "chords": [
+          "Dm7b5",
+          "G7"
+        ]
+      },
+      {
+        "id": "23",
+        "chords": [
+          "Cm"
+        ]
+      },
+      {
+        "id": "24",
+        "chords": [
+          "F7"
+        ]
+      },
+      {
+        "id": "25",
+        "chords": [
+          "Abmaj7"
+        ]
+      },
+      {
+        "id": "26",
+        "chords": [
+          "Dm7b5",
+          "G7"
+        ]
+      },
+      {
+        "id": "27",
+        "chords": [
+          "Cm"
+        ]
+      },
+      {
+        "id": "28",
+        "chords": [
+          "Bbm7",
+          "Eb7"
+        ]
+      },
+      {
+        "id": "29",
+        "chords": [
+          "Abmaj7"
+        ]
+      },
+      {
+        "id": "30",
+        "chords": [
+          "Dm7b5",
+          "G7"
+        ]
+      },
+      {
+        "id": "31",
+        "chords": [
+          "Cm"
+        ]
+      },
+      {
+        "id": "32",
+        "chords": [
+          "Dm7b5",
+          "G7"
+        ]
+      }
+    ],
+    "sections": {
+      "Sección A": 0,
+      "Sección B": 16,
+      "Sección A final": 24
+    }
+  },
+  {
+    "id": "fly-me-to-the-moon",
+    "title": "Fly Me to the Moon",
+    "defaultKey": "C",
+    "style": "Medium Swing",
+    "tempo": 120,
+    "measures": [
+      {
+        "id": "1",
+        "chords": [
+          "Am7"
+        ]
+      },
+      {
+        "id": "2",
+        "chords": [
+          "Dm7"
+        ]
+      },
+      {
+        "id": "3",
+        "chords": [
+          "G7"
+        ]
+      },
+      {
+        "id": "4",
+        "chords": [
+          "Cmaj7"
+        ]
+      },
+      {
+        "id": "5",
+        "chords": [
+          "Fmaj7"
+        ]
+      },
+      {
+        "id": "6",
+        "chords": [
+          "Bm7b5"
+        ]
+      },
+      {
+        "id": "7",
+        "chords": [
+          "E7"
+        ]
+      },
+      {
+        "id": "8",
+        "chords": [
+          "Am7"
+        ]
+      },
+      {
+        "id": "9",
+        "chords": [
+          "Dm7"
+        ]
+      },
+      {
+        "id": "10",
+        "chords": [
+          "G7"
+        ]
+      },
+      {
+        "id": "11",
+        "chords": [
+          "Cmaj7"
+        ]
+      },
+      {
+        "id": "12",
+        "chords": [
+          "Am7"
+        ]
+      },
+      {
+        "id": "13",
+        "chords": [
+          "Dm7"
+        ]
+      },
+      {
+        "id": "14",
+        "chords": [
+          "G7"
+        ]
+      },
+      {
+        "id": "15",
+        "chords": [
+          "Cmaj7"
+        ]
+      },
+      {
+        "id": "16",
+        "chords": [
+          "Bm7b5",
+          "E7"
+        ]
+      },
+      {
+        "id": "17",
+        "chords": [
+          "Am7"
+        ]
+      },
+      {
+        "id": "18",
+        "chords": [
+          "Dm7"
+        ]
+      },
+      {
+        "id": "19",
+        "chords": [
+          "G7"
+        ]
+      },
+      {
+        "id": "20",
+        "chords": [
+          "Cmaj7"
+        ]
+      },
+      {
+        "id": "21",
+        "chords": [
+          "Fmaj7"
+        ]
+      },
+      {
+        "id": "22",
+        "chords": [
+          "Bm7b5"
+        ]
+      },
+      {
+        "id": "23",
+        "chords": [
+          "E7"
+        ]
+      },
+      {
+        "id": "24",
+        "chords": [
+          "Am7"
+        ]
+      },
+      {
+        "id": "25",
+        "chords": [
+          "Dm7"
+        ]
+      },
+      {
+        "id": "26",
+        "chords": [
+          "G7"
+        ]
+      },
+      {
+        "id": "27",
+        "chords": [
+          "Em7b5"
+        ]
+      },
+      {
+        "id": "28",
+        "chords": [
+          "A7"
+        ]
+      },
+      {
+        "id": "29",
+        "chords": [
+          "Dm7"
+        ]
+      },
+      {
+        "id": "30",
+        "chords": [
+          "G7"
+        ]
+      },
+      {
+        "id": "31",
+        "chords": [
+          "Cmaj7"
+        ]
+      },
+      {
+        "id": "32",
+        "chords": [
+          "Bm7b5",
+          "E7"
+        ]
+      }
+    ],
+    "sections": {
+      "Sección A": 0,
+      "Sección B": 16
+    }
+  }
+]

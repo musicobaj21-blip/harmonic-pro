@@ -1,0 +1,12 @@
+{
+  "name": "APP Rumie Harmony Pro",
+  "description": "Una aplicación web interactiva de entrenamiento musical y referencia con simulador de acordes interactivo en guitarra y reproductor de Jazz Standards transponible y con sonido real.",
+  "requestFramePermissions": [
+    "microphone",
+    "midi",
+    "midi-sysex"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
